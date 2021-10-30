@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764997059314",
+    "firebase_url": "https://proyectoestadios-2b66b-default-rtdb.firebaseio.com",
+    "project_id": "proyectoestadios-2b66b",
+    "storage_bucket": "proyectoestadios-2b66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764997059314:android:d89a977ee8d06507fbc66b",
+        "android_client_info": {
+          "package_name": "cl.luis.proyectoestadios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764997059314-dq3ft7h5h0i50g7u0ig7n4l6tktu6jri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1IF9y5KyUVvwoXmD4yRGulxJ_vwDkMbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764997059314-dq3ft7h5h0i50g7u0ig7n4l6tktu6jri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
